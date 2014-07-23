@@ -1,0 +1,46 @@
+.col-xs-6 {
+    padding: 2px;
+}
+
+.tableLastSuscrib {
+    height: 700px;
+    overflow-y: scroll;
+    border: 1px solid lightgray;
+    padding: 2px;
+}
+
+ .online {
+     background-color: mediumspringgreen;
+ }
+
+.off-line {
+    background-color: indianred;
+    color: white;
+}
+
+a {
+    margin: -5px;
+}
+
+.resultSearch {
+    position: absolute;
+    z-index: 1;
+
+}
+
+.resultSearch li {
+  list-style-type: none;
+    padding: 2px;
+
+}
+
+.resultSearch a {
+
+margin-left: -30px;
+    padding: 5px;
+    margin-right: 15px;
+}
+
+.col-xs-5 {
+    padding: 5px;
+}

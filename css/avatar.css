@@ -1,0 +1,222 @@
+.Avatar1{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: 0px -0px ;
+}
+
+.Avatar2{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -100px -0px ;
+}
+
+.Avatar3{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -200px -0px ;
+}
+
+.Avatar4{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -300px -0px ;
+}
+
+.Avatar5{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: 0px -100px ;
+}
+
+.Avatar6{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -100px -100px ;
+}
+
+.Avatar7{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -200px -100px ;
+}
+
+.Avatar8{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -300px -100px ;
+}
+
+.Avatar9{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -0px -200px ;
+}
+
+.Avatar10{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -100px -200px ;
+}
+
+.Avatar11{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -200px -200px ;
+}
+
+.Avatar12{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -300px -200px ;
+}
+
+.Avatar13{
+    background-image: url("../img/avatar.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: -00px -300px ;
+}
+
+.Icon1 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -0px 0px ;
+    margin: -5px
+}
+
+.Icon2 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -36px 0px ;
+    margin: -5px
+}
+.Icon3 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -72px 0px ;
+    margin: -5px
+}
+
+
+.Icon4 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -108px 0px ;
+    margin: -5px
+}
+
+
+.Icon5 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -0px -36px ;
+    margin: -5px
+}
+
+.Icon6 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -36px -36px ;
+    margin: -5px
+}
+.Icon7 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 36px;
+    background-position: -72px -36px ;
+    margin: -5px
+}
+
+
+.Icon8 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -108px -36px ;
+    margin: -5px
+}
+
+.Icon9 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -0px -72px ;
+    margin: -5px
+}
+
+.Icon10 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -36px -72px ;
+    margin: -5px
+}
+.Icon11 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 36px;
+    background-position: -72px -72px ;
+    margin: -5px
+}
+
+
+.Icon12 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -108px -72px ;
+    margin: -5px
+}
+
+.Icon13 {
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 34px;
+    background-position: -108px -108px ;
+    margin: -5px
+}
+
